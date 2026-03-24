@@ -12,3 +12,13 @@ while i<=10:
     mul=5*i
     print(mul)
     i=i+1
+3-reverse printing
+i=1
+while i<=5:
+    print(i)
+    i=i+1
+i=5
+while i>=1:
+    print(i)
+    i=i-1
+    
