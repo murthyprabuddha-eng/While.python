@@ -24,4 +24,7 @@ while i>=1:
 4-pattern printing
 for i in range(1,6):
     print("*" *i)
+5-revers pattern printing
+for i in range(5,0,-1):
+    print("*" *i)
     
