@@ -5,3 +5,10 @@ i=1
 while i<=10:
     print(i)
     i=i+1
+
+2- mulplication of 5
+i=1
+while i<=10:
+    mul=5*i
+    print(mul)
+    i=i+1
