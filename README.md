@@ -21,4 +21,7 @@ i=5
 while i>=1:
     print(i)
     i=i-1
+4-pattern printing
+for i in range(1,6):
+    print("*" *i)
     
