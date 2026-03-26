@@ -1,4 +1,4 @@
-# While.python
+#  While.python
 Problem 1 — for loop basics
 Print all numbers from 1 to 10 using a for loop.
 i=1
